@@ -1,0 +1,15 @@
+Part 1 A
+
+True
+Foxes IsA Animal, so must have weight (found in Animal table)
+True
+Since a dog just has to assist at least once, but a hunter can kill many times.
+False
+False
+False
+True
+True
+False
+False
+True
+False -> subclasses are disjoint sets of superclass, thus  a bird can not be a dog.
